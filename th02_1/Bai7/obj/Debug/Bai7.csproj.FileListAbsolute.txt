@@ -1,0 +1,10 @@
+E:\IT\C#\LapTrinhTrucQuan\TH02\th02_1\Bai7\bin\Debug\Bai7.exe.config
+E:\IT\C#\LapTrinhTrucQuan\TH02\th02_1\Bai7\bin\Debug\Bai7.exe
+E:\IT\C#\LapTrinhTrucQuan\TH02\th02_1\Bai7\bin\Debug\Bai7.pdb
+E:\IT\C#\LapTrinhTrucQuan\TH02\th02_1\Bai7\obj\Debug\Bai7.Form1.resources
+E:\IT\C#\LapTrinhTrucQuan\TH02\th02_1\Bai7\obj\Debug\Bai7.Properties.Resources.resources
+E:\IT\C#\LapTrinhTrucQuan\TH02\th02_1\Bai7\obj\Debug\Bai7.csproj.GenerateResource.cache
+E:\IT\C#\LapTrinhTrucQuan\TH02\th02_1\Bai7\obj\Debug\Bai7.csproj.CoreCompileInputs.cache
+E:\IT\C#\LapTrinhTrucQuan\TH02\th02_1\Bai7\obj\Debug\Bai7.exe
+E:\IT\C#\LapTrinhTrucQuan\TH02\th02_1\Bai7\obj\Debug\Bai7.pdb
+E:\IT\C#\LapTrinhTrucQuan\TH02\th02_1\Bai7\obj\Debug\Bai7.csprojAssemblyReference.cache
